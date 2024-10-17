@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Eventos
 
 Este projeto é um *Sistema de Gerenciamento de Eventos* em Java que permite o cadastro de eventos, inscrições e cancelamentos de participantes, verificação de lotação e geração de relatórios. Ele foi desenvolvido utilizando conceitos de *Programação Orientada a Objetos (POO)*.
+Grupo: Ana Pellegrino, Artur Uchôa, André Mota, Isabel Lugon e João Magalhães.
 
 ## Funcionalidades
 
