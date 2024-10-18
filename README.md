@@ -42,17 +42,8 @@ Grupo: Ana Pellegrino, Artur Uchôa, André Mota, Isabel Lugon e João Magalhãe
 - Armazena o nome e o e-mail do participante (utilizado para cadastro e cancelamento).
 
 
-# Quais eventos estão mais próximos de atingir a capacidade máxima de participantes?
+# Como faço para verificar a lotaçãodo evento?
 - Identificar eventos que estão quase lotados pode ajudar na tomada de decisões para promover o evento ou até mesmo ajustar a logística, como ampliação de capacidade ou mudança de local.
 
-# Quais são os locais de eventos mais utilizados?
+# Como faço para cancelar uma inscrição?
 - Analisar os locais mais requisitados para a realização de eventos pode guiar decisões sobre parcerias, otimização de espaço ou até mesmo a abertura de novos locais para eventos futuros.
-
-# Quais eventos atraem o maior número de participantes?
-- Determinar quais eventos têm maior adesão permite ajustar estratégias de marketing e planejamento de eventos semelhantes no futuro, aumentando a eficiência na organização e promoção.
-
-# Qual é o perfil dos participantes que mais se inscrevem nos eventos?
-- Verificar o perfil dos participantes, como faixa etária ou localidade, pode auxiliar na personalização de eventos e na criação de conteúdos mais relevantes para o público-alvo.
-
-# Em quais períodos (meses/datas) há maior demanda por eventos?
-- Analisar os períodos do ano com maior número de eventos permite otimizar a alocação de recursos, planejamento de agenda e campanhas publicitárias em épocas mais movimentadas.
